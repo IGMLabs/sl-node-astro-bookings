@@ -1,4 +1,4 @@
-import { getGreetings } from "./lib.js";
+import { getGreetings } from "./index.js";
 
 const greetings = getGreetings("IGM labs");
 
